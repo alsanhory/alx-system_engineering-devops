@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'Alea iacta est' iacta
+awk 'NR==3' iacta
